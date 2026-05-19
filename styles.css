@@ -938,6 +938,7 @@ h3 {
   }
 
   .hero-actions .button-primary {
+    grid-column: 1 / -1;
     order: 1;
   }
 
@@ -946,7 +947,6 @@ h3 {
   }
 
   .hero-actions .button-secondary {
-    grid-column: 1 / -1;
     order: 3;
   }
 
